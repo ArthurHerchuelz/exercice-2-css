@@ -1,0 +1,15 @@
+span.italique {
+  font-style: italic;
+}
+span.gras{
+  font-weight: bold;
+}
+p.centrer{
+  text-align: center;
+}
+span.red{
+  color: red;
+}
+span.green{
+color: green;
+}
